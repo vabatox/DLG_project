@@ -1,0 +1,4 @@
+ForecastSiteCode,ObservationTime,ObservationDate,WindDirection,WindSpeed,WindGust,Visibility,ScreenTemperature,Pressure,SignificantWeatherCode,SiteName,Latitude,Longitude,Region,Country
+3002,0,2016-03-01T00:00:00,8,23,30,16000,-99.00,,8,BALTASOUND (3002),60.7490,-0.8540,Orkney & Shetland,SCOTLAND
+3005,0,2016-03-01T00:00:00,8,26,34,5000,4.90,1004,12,LERWICK (S. SCREEN) (3005),60.1390,-1.1830,Orkney & Shetland,SCOTLAND
+3008,0,2016-03-01T00:00:00,7,30,40,5000,5.10,1003,11,FAIR ISLE (3008),59.5300,-1.6300,Orkney & Shetland,
