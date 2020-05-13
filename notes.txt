@@ -1,0 +1,9 @@
+Notes...
+
+1) there are 2 solutions, one for jupyter(dlg_test_pyspark.ipynb) and one .py (dlg_test_pyspark.py)
+2) I initially tested on a sample of the 2 .csv files. I have included my test files.
+3) I did not count any data where pressure column is null, as these ScreenTemperature defaulted to -99
+4) A assumed ScreenTemperature = Temperature
+5) All 3 answers are printed in the .py and .ipynb.
+6) All 3 answers have been output to /tmp/hottest_day,/tmp/hottest_day_temp/ & /tmp/hottest_day_region/
+7) I have used pyspark rather than pandas
